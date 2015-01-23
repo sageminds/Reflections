@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	the .git directory is created where the meta data is collected for the commits.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	The staging directory allow you to organize the files that are included in a commit. This is valuable because you can logically organize files that need to be tracked together.
+
