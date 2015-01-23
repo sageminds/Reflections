@@ -6,3 +6,11 @@ How is the staging area different from the working directory and the repository?
 
 	The staging directory allow you to organize the files that are included in a commit. This is valuable because you can logically organize files that need to be tracked together.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+	You can add specific files to the staging area that make up a logical change. You do this by the Git add (file name) command. 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	When you are creating something different to add to the general game such as a new feature, an experiment etc.
+
