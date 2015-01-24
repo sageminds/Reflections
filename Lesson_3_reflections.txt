@@ -1,1 +1,5 @@
 When would you want to create a remote repository rather than keeping all your work local?
+
+    It is convenient to work in a remote directory if you access files from more than one computer/device. It is also necessary to have files available remotely when working with other developers.
+  
+  
