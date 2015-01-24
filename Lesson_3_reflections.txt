@@ -2,4 +2,6 @@ When would you want to create a remote repository rather than keeping all your w
 
     It is convenient to work in a remote directory if you access files from more than one computer/device. It is also necessary to have files available remotely when working with other developers.
   
-  
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+	
+	You would want to have more control over what information is stored on your local system and automatically pulling changes from the remote may overwrite data you have changed locally.
