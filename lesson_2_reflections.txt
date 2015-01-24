@@ -22,3 +22,8 @@ What is the result of merging two branches together? Why do we represent it in t
 
 	When you merge branches you are bringing the changes together into the master branch, thus "adding the feature". The changes are logged chronologically and result is that the color implemented in the main branch and the coins from the coins branch are now active in the main branch. Since the branches are merged, it is possible to see the commits from both branches.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Automatic merging is great when the changes on both branches to not conflict with each other. It is easy to bring them all together into one branch.
+
+	A problem can occur if different changes to the same code in both branches or files. Git can not tell which code should be included in the final or merged code. This takes a decision by the person merging the branches or files.
