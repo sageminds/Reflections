@@ -27,3 +27,5 @@ What are the pros and cons of Git’s automatic merging vs. always doing merges 
 	Automatic merging is great when the changes on both branches to not conflict with each other. It is easy to bring them all together into one branch.
 
 	A problem can occur if different changes to the same code in both branches or files. Git can not tell which code should be included in the final or merged code. This takes a decision by the person merging the branches or files.
+
+
