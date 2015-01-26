@@ -12,7 +12,7 @@ Describe the differences between forks, clones, and branches. When would you use
 
 	Clone is a copy of a repository that can be a copy of a GitHub repository that you copy to your local computer. A Clone can also be a copy of a locally created repository. You would make a clone of a repository if you are working on a project locally and will then push changes to the remote version on GitHub. This is useful when you need to access the repository from more than one device or someone else needs access to the files or is a contributor to the project.
 
-	Branches occur within a repository. The Master branch is the latest approached version of the project. Branches are created when you want to add a feature or experiment with the code, but not effect the Master branch until your feature is ready. Branches can be merged into the Master Branch when they are ready and approved.`
+	Branches occur within a repository. The Master branch is the latest approved version of the project. Branches are created when you want to add a feature or experiment with the code, but not effect the Master branch until your feature is ready. Branches can be merged into the Master Branch when they are ready and approved.`
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
